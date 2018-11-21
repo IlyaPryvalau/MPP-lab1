@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\FileGeneratorLib\bin\Debug\FileGeneratorLib.dll
+c:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\FileGeneratorLib\bin\Debug\FileGeneratorLib.pdb
+c:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\FileGeneratorLib\obj\Debug\FileGeneratorLib.dll
+c:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\FileGeneratorLib\obj\Debug\FileGeneratorLib.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\lab1_MPP\FileGeneratorLib\obj\Debug\FileGeneratorLib.csprojResolveAssemblyReference.cache

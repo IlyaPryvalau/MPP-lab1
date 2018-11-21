@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\lab1_MPP.pdb
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\obj\Debug\lab1_MPP.pdb
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\FileGeneratorLib.dll
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\FileGeneratorLib.pdb
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\obj\Debug\lab1_MPP.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\lab1_MPP.exe
+c:\users\user\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\obj\Debug\lab1_MPP.exe
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\Sorter.dll
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\lab1_MPP\bin\Debug\Sorter.pdb

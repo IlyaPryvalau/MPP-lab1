@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\Sorter\bin\Debug\Sorter.dll
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\Sorter\bin\Debug\Sorter.pdb
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\Sorter\obj\Debug\SortLib.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\Sorter\obj\Debug\Sorter.dll
+C:\Users\User\documents\visual studio 2015\Projects\lab1_MPP\Sorter\obj\Debug\Sorter.pdb
